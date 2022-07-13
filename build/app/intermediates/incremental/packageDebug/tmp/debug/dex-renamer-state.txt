@@ -1,0 +1,4 @@
+#Wed Jul 13 16:48:13 IST 2022
+base.0=/Users/jatindayal/Downloads/coding/flutter_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
